@@ -16,8 +16,8 @@ it properly or efficiently.
 * This forecast template forecast up to 4 years. Inside, You can rename the worksheet to another name. 
   After rename, you just need to update the new worksheet name in the "Main" worksheet. 
 
-* For the Debts. Order Matters, For Debts: If "Order 3" is for HSBC Bank, everytime when you need to make a record for payback. 
-  You need to place the item on "Order 3", then it will automatically be  calculated. 
+* For the Debts. Order Matters, For Debts: If third item is for HSBC Bank, everytime when you need to make a record for payback. 
+  You need to place the item on the third item (or you can say third line), then it will automatically be  calculated. 
 
 * As mentioned, it forecast up to 4 years. After 4 years. To create another new 4 years, please follow the procedures below:
     1. Copy the template to another file.
