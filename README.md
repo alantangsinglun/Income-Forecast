@@ -1,4 +1,4 @@
-# Income-Forecast
+# Income Expenditure Forecast
 ## Your Personal Finance Organizer
 
 This excel is a personal finance organizer. Why have this project is because for my personal use only ( still using it at least).
